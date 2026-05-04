@@ -43,7 +43,7 @@ playing  : Chess ♟
 ```
 Favorite anime :: Mushoku Tensei · Re:Zero · Monster
 chess :: always up for a game ♟
-manga :: Batman: The Killing Joke · Batman: Year One · Batman: Mr. Freeze
+manga/HQ :: Batman: The Killing Joke · Batman: Year One · Batman: Mr. Freeze
 books :: Zero to One · 1984 · Hamlet · The Metamorphosis · Vidas Secas
 philosophy :: if Rudeus didn't give up, neither do I
 
