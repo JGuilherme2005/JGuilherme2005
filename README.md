@@ -24,6 +24,7 @@ playing  : Chess ♟
 |---|---|---|
 | **Toki 時** | Pomodoro desktop app with AI | Electron · Node.js · AI |
 | **takepill** | Medication reminder app | Expo · React Native |
+| **Mentat** | Personal finance manager with Telegram bot | Node.js · Supabase · Vercel · Telegraf |
 
 ---
 
