@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=800&color=1D9E75&center=true&vCenter=true&width=500&lines=CS+student+%40+Stetson+University+🎓;builder+of+things+that+shouldn't+exist+yet;I+restart+like+Subaru+until+it+works+🔁;from+São+Luís+🇧🇷+→+DeLand+FL+🇺🇸" alt="typing" />
+# Catgreen
 
 </div>
 
@@ -41,4 +41,4 @@ playing  : Chess ♟
 
 ---
 
-## 🎌 outside the code
+ 
