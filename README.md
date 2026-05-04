@@ -4,9 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=800&color=1D9E75&center=true&vCenter=true&width=500&lines=CS+student+%40+Stetson+University+🎓;builder+of+things+that+shouldn't+exist+yet;I+restart+like+Subaru+until+it+works+🔁;from+São+Luís+🇧🇷+→+DeLand+FL+🇺🇸" alt="typing" />
 
-<br/>
+<br/><br/>
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" />
+<img src="https://media.giphy.com/media/citGKMGFnNxiSCjrqD/giphy.gif" width="200" />
+
+<br/><br/>
 
 </div>
 
@@ -50,13 +52,13 @@ const joao = {
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/kgKrO1A3JbWTK/giphy.gif" width="120" />
+<img src="https://media.giphy.com/media/iKnBBmMwNpCeEy7DUX/giphy.gif" width="150" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="120" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/xT9IgG50Lg7russbD6/giphy.gif" width="120" />
+<img src="https://media.giphy.com/media/IbO3k4w9dAMkAMeWEi/giphy.gif" width="150" />
 
 </div>
+
+<br/>
 favoritos  :: Mushoku Tensei · Re:Zero · Monster
 filosofia  :: se o Rudeus não desistiu, eu não desisto
 mindset    :: Johan Liebert me ensinou que os detalhes importam
