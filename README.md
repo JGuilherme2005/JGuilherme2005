@@ -41,12 +41,10 @@ playing  : Chess ♟
 ## 🎌 outside the code
 
 ```
-Favorite anime      :: Mushoku Tensei · Re:Zero · Monster
-chess      :: always up for a game ♟
-manga      :: Batman: The Killing Joke · Batman: Year One · Batman: Mr. Freeze
-books      :: Zero to One · 1984 · Hamlet · The Metamorphosis · Vidas Secas
-           :: Power & Manipulation · Apenas um Olhar · Olhos D'Água
+Favorite anime :: Mushoku Tensei · Re:Zero · Monster
+chess :: always up for a game ♟
+manga :: Batman: The Killing Joke · Batman: Year One · Batman: Mr. Freeze
+books :: Zero to One · 1984 · Hamlet · The Metamorphosis · Vidas Secas
 philosophy :: if Rudeus didn't give up, neither do I
-mindset    :: Johan Liebert taught me that details matter
-loop       :: Return by Death until the build passes
+
 ```
