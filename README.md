@@ -13,7 +13,6 @@ location : "DeLand, FL — Stetson University 🇺🇸"
 origin   : "São Luís, Maranhão 🇧🇷"
 status   : "CS student · builder · always on the next arc"
 approach : "I restart like Subaru until the code works"
-watching : Mushoku Tensei · Re:Zero · Monster
 playing  : Chess ♟
 ```
 
@@ -24,8 +23,7 @@ playing  : Chess ♟
 | project | desc | stack |
 |---|---|---|
 | **Toki 時** | Pomodoro desktop app with AI | Electron · Node.js · AI |
-| **CAT Vision AI** | LLM document analysis · Hackathon CREA-MA 2026 | Python · LLM |
-| **SIGMA** | Experiments and automations | Python |
+| **takepill** | Medication reminder app | Expo · React Native |
 
 ---
 
@@ -40,5 +38,15 @@ playing  : Chess ♟
 ![React Native](https://img.shields.io/badge/React_Native-1D9E75?style=for-the-badge&logo=react&logoColor=white)
 
 ---
+## 🎌 outside the code
 
- 
+```
+Favorite anime      :: Mushoku Tensei · Re:Zero · Monster
+chess      :: always up for a game ♟
+manga      :: Batman: The Killing Joke · Batman: Year One · Batman: Mr. Freeze
+books      :: Zero to One · 1984 · Hamlet · The Metamorphosis · Vidas Secas
+           :: Power & Manipulation · Apenas um Olhar · Olhos D'Água
+philosophy :: if Rudeus didn't give up, neither do I
+mindset    :: Johan Liebert taught me that details matter
+loop       :: Return by Death until the build passes
+```
