@@ -1,16 +1,36 @@
-## Hi there 👋
+<!-- github.com/JGuilherme2005 -->
 
-<!--
-**JGuilherme2005/JGuilherme2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=CS+student+%40+Stetson+University;builder+of+things+that+shouldn't+exist+yet;I+restart+like+Subaru+until+it+works;from+São+Luís+🇧🇷+→+DeLand+FL+🇺🇸" alt="typing" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const joao = {
+  location : "DeLand, FL — Stetson University 🇺🇸",
+  origin   : "São Luís, Maranhão 🇧🇷",
+  status   : "CS student · builder · always on the next arc",
+  approach : "I restart like Subaru until the code works",
+}
+```
+
+## ⚡ projetos
+
+| projeto | desc | stack |
+|---|---|---|
+| **Toki 時** | Pomodoro desktop app com IA | Electron · Node.js · AI |
+| **CAT Vision AI** | Análise de docs com LLM · Hackathon CREA-MA 2026 | Python · LLM |
+| **SIGMA** | Experimentos e automações | Python |
+
+## 🛠 stack
+
+![Python](https://img.shields.io/badge/Python-1D9E75?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1D9E75?style=flat-square&logo=javascript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1D9E75?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-1D9E75?style=flat-square&logo=dotnet&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-1D9E75?style=flat-square&logo=electron&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1D9E75?style=flat-square&logo=nodedotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-1D9E75?style=flat-square&logo=react&logoColor=white)
+
+## 🎌 fora do código
